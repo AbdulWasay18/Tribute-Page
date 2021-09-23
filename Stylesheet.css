@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.container { width: 100%;
+    height: 100%;
+    background-color: rgba(114, 106, 84, 0.993);
+    width: 1000px;
+    box-sizing: border-box;
+    Margin-left: 500px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.main{
+    
+    box-sizing: border-box;
+    text-align: center;
+    padding-top: 10px ;
+    padding-bottom: 10px;
+}
+.content {
+    width: 500px;
+    text-align: justify;
+    
+}
+.imgcircle {
+    width: 500px
+} 
+.info ul li{
+    text-align: justify;
+}
+.info ul {
+    padding: 10px 20px 10px 15px;
+}
+ img{
+    border-radius: 50%;
+    padding: 10px 225px 10px 225px;
+     
+}
+.cc {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+cite {
+    text-align: center;
+    padding: ;
+}   
